@@ -13,7 +13,6 @@ Is the core of a larger system composed by the following projects:
 - GPS Tracker front end
 - Canbus ECU integration
 
-#### motes
 
 ### Hardware
 
@@ -22,7 +21,6 @@ Is the core of a larger system composed by the following projects:
 - GPS Receiver (USB or GY-NEO6MV2 module)
 - DC-DC Buck Step-down voltage converters
 
-#### Notes
 
 ### Software
 
@@ -30,12 +28,8 @@ Is the core of a larger system composed by the following projects:
 
 ### Schematics
 
-
-
-
-
 ![alt text](./imgs/schematics.png)
 
 ### Blog updates
 
-![alt text](./imgs/pinout.png)
+### Notes
