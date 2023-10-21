@@ -13,6 +13,8 @@ Is the core of a larger system composed by the following projects:
 - GPS Tracker front end
 - Canbus ECU integration
 
+#### motes
+
 ### Hardware
 
 - Raspberry Pi 4
@@ -20,7 +22,7 @@ Is the core of a larger system composed by the following projects:
 - GPS Receiver (USB or GY-NEO6MV2 module)
 - DC-DC Buck Step-down voltage converters
 
-- - notes
+#### Notes
 
 ### Software
 
@@ -28,22 +30,12 @@ Is the core of a larger system composed by the following projects:
 
 ### Schematics
 
-| HC-06 | Arduino |
-| :---- | :------ |
-| `Rx`  | `Tx`    |
-| `Tx`  | `Rx`    |
-| `Vcc` | `Vcc`   |
-| `Gnd` | `Gnd`   |
 
-| I2C Oled  | Arduino (Sparkfun Pro Micro) |
-| :-------- | :--------------------------- |
-| `Sck`     | `3 (Scl)`                    |
-| `Sda`     | `2 (Sda)`                    |
-| `Vcc/Vdd` | `Vcc`                        |
-| `Gnd`     | `Gnd`                        |
+
+
 
 ![alt text](./imgs/schematics.png)
 
-### Pro Micro pinout reference
+### Blog updates
 
 ![alt text](./imgs/pinout.png)
