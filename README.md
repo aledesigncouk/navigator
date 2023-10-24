@@ -1,6 +1,6 @@
 # Navigator (Flight of The Navigator)
 
-Onboard computer system for campervan. (work in progress)
+Onboard computer system for campervan. **(work in progress)**
 
 ## Description
 
@@ -27,7 +27,13 @@ Is the core of a larger system composed by the following projects:
 
 A custom DietPi is used as OS.
 The main interface is created with Golang and Fyne library.
-The navigation is based on the Open Source project Navit
+The navigation is based on the Open Source project Navit.
+
+- [DietPi](https://dietpi.com/)
+- [i3](https://i3wm.org/)
+- [Go](https://go.dev/)
+- [Fyne](https://fyne.io/)
+- [Navit](https://github.com/navit-gps/navit)
 
 ### Schematics
 
